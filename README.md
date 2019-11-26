@@ -2,6 +2,16 @@
 
 # Xylophone 🎹
 
+About Me : https://about.me/aakashpadhiyar
+
+Youtube Channel: https://www.youtube.com/channel/UCtuoofxzdxsmtRtEy27710g
+
+Freelance : https://www.fiverr.com/kanopython
+
+Facebook : https://www.facebook.com/pythonkano/
+
+LinkedIn : https://www.linkedin.com/in/aakashpadhiyar/
+
 ## Our Goal
 
 In this tutorial we will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this module, you should be conformable using Flutter packages and building repeated widgets.
